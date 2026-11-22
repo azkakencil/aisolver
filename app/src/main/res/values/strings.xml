@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AI Solver</string>
+    <string name="app_subtitle">Smart Homework Assistant</string>
+    <string name="nav_home">Beranda</string>
+    <string name="nav_scan">Scan Soal</string>
+    <string name="nav_chat">Chat AI</string>
+    <string name="nav_settings">Pengaturan</string>
+    <string name="action_start_chat">Mulai Chat AI</string>
+    <string name="action_scan_question">Scan dan Jawab</string>
+    <string name="action_upload_image">Upload Gambar</string>
+    <string name="preview_button">PREVIEW</string>
+    <string name="apply_button">APPLY</string>
+    <string name="cancel_button">CANCEL</string>
+</resources>

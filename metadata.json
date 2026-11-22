@@ -1,0 +1,6 @@
+{
+  "name": "AI Solver",
+  "description": "Smart Homework Assistant with Floating AI Chatbot, CameraX + ML Kit OCR Question Scanner, GPT-4 API integration, full customizable Settings, and live Preview Mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
